@@ -81,7 +81,7 @@
 
 ![Metrics](https://metrics.lecoq.io/dev-ashrafbd?template=terminal&base.header=0&base.activity=0&base.repositories=0&base.metadata=0&languages=1&languages.limit=8&languages.colors=github&languages.threshold=0%25&config.timezone=America%2FToronto)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafbd&repo=Portfolio)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafbd&repo=Portfolio-2)](https://github.com/anuraghazra/github-readme-stats) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafbd&repo=PHP_CRUD_Account_Management)](https://github.com/anuraghazra/github-readme-stats)  
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafbd&repo=Portfolio)](https://github.com/dev-ashrafbd/Portfolio) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafbd&repo=Portfolio-2)](https://github.com/dev-ashrafbd/Portfolio-2) [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=dev-ashrafbd&repo=PHP_CRUD_Account_Management)](https://github.com/dev-ashrafbd/PHP_CRUD_Account_Management)  
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=dev-ashrafbd&left_color=black&right_color=blue)
 
